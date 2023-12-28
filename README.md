@@ -72,7 +72,6 @@ Implementing blockchain technology to enhance the chain of custody process for f
 \* Lengths in bits unless otherwise specified.  
 \*\* Length may vary depending on the specific implementation.
 
-## Additional Features
 
 - Developed fuzzy hash functions for digital evidence, reducing sensitivity to input changes.
 - Enhanced High Security, reduced security breaches by 91.8% in IPFS Network.
