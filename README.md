@@ -73,6 +73,17 @@ Implementing blockchain technology to enhance the chain of custody process for f
 \*\* Length may vary depending on the specific implementation.
 
 
+**Blockchain Integration:**
+  - **Smart Contracts Language:** Solidity
+  - **Blockchain Platform:** Ethereum
+  - **Web3 Library:** Web3.js
+  - **Hash Algorithm:** SHA-256
+  - **Integration Language:** Python
+  - **API Communication:** RESTful API
+  - **Container Orchestration:** Kubernetes
+  - **Database:** MySQL
+
+
 - Developed fuzzy hash functions for digital evidence, reducing sensitivity to input changes.
 - Enhanced High Security, reduced security breaches by 91.8% in IPFS Network.
 - Ensured data integrity and robust system performance through effective fuzzy hash functions.
