@@ -95,5 +95,5 @@ Implementing blockchain technology to enhance the chain of custody process for f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SHAMSUNDAR20/Forensic-Blockchain.git
-   cd Forensic-Blockchain
+   https://github.com/SHAMSUNDAR20/Uncertainty-in-Chain-of-Custody-for-Image-Forensics-Investigation-Using-Blockchain-Technology.git
+   
