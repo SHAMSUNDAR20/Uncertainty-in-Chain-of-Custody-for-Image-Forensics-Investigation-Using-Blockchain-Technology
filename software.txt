@@ -1,0 +1,4 @@
+https://docs.ipfs.tech/install/ipfs-desktop/#windows
+https://sourceforge.net/projects/ganache.mirror/
+https://sourceforge.net/projects/xampp/files/
+https://nodejs.org/en/download
